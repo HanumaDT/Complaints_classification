@@ -1,0 +1,13 @@
+pandas==2.2.3
+numpy==2.2.3
+scikit-learn==1.6.1
+transformers==4.49.0
+tensorflow==2.18.0
+tf-keras==2.20.0
+xgboost==2.1.4
+torch==
+evaluate==
+accelerate==
+python-multipart==
+
+
